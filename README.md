@@ -1,16 +1,23 @@
-# Astrophysics Notlarım
+# Astrophysics Notes
 
-Astrofizik notlarım için oluşturulmuştur.
+Astrophysics lecture notes written in LaTeX by **Emre SEZER**.  
+This repository includes structured sections covering fundamental and advanced topics in astrophysics, cosmology, and stellar physics.
 
-## 📘 İçerik
--
--
--
+---
 
-## 📄 Format
-Tüm notlar **LaTeX** ile yazılmıştır ve derleme için şu şekilde yapılandırılmıştır:
+## 📚 Contents
+- [Introduction](sections/01_introduction.tex)
+- [Stellar Physics](sections/02_stellar_physics.tex)
+- [Black Holes](sections/03_black_holes.tex)
+- [Cosmology](sections/04_cosmology.tex)
+- [Appendix](sections/05_appendix.tex)
+
+---
+
+## 🧠 Compilation
+
+The project is written using **LaTeX** and can be compiled with `pdfLaTeX` or on [Overleaf](https://www.overleaf.com/).
+
+**Main file:**  
 ```bash
-pdflatex main.tex
-bibtex main
-pdflatex main.tex
-pdflatex main.tex
+main.tex
