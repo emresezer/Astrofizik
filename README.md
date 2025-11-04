@@ -21,3 +21,5 @@ The project is written using **LaTeX** and can be compiled with `pdfLaTeX` or on
 **Main file:**  
 ```bash
 main.tex
+
+📘 [View compiled notes (main.pdf)](https://github.com/emresezer/Astrophysics-Notes/raw/main/main.pdf)
