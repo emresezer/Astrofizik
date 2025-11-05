@@ -6,5 +6,5 @@ Notlarım.
 
 ## 🧠 Derleme
 
-📘 [PDF halini görüntüle (main.pdf)](https://emresezer.github.io/Astrophysics-Notes/main.pdf)
+📘 [PDF halini görüntüle (main.pdf)](https://emresezer.github.io/Astrofizik/main.pdf)
 
